@@ -1,0 +1,13 @@
+1. Download the tictactoegame.py file
+2. Open cmd, Make sure you have python downloaded.
+3. cd to the location where tictactoegame.py is downloaded
+4. Make sure you have the latest version of pip, if not then upgrade it
+   For example: C:\Python39\python.exe -m pip install --upgrade pip --user
+   this upgrades to the latest version
+5. Now install the requests IPython library using 
+   py -m pip install IPython --user
+6. Run the file using
+   py tictactoegame.py
+7. Enjoy the game!
+
+THANK YOU!
